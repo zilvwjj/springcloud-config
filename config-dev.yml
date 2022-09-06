@@ -1,5 +1,2 @@
-server:
-  port: 1234
-
 config:
   info: github_config-dev.yml
